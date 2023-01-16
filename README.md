@@ -1,10 +1,15 @@
 ### Olá! Eu sou o Matheus Charles ✌️
 
-[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]( https://wa.me/5521975581386)
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](contate.me/matheuscharles)
 [![LinkeInd](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-charles-ramos-0316b5224/)
 
+<div> 
 
 ![Charles GitHub stats](https://github-readme-stats.vercel.app/api?username=Charlles21&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ## Tecnologias que eu uso:
 
